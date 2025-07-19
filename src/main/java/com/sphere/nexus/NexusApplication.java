@@ -9,5 +9,4 @@ public class NexusApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(NexusApplication.class, args);
 	}
-
 }
